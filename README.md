@@ -7,4 +7,4 @@
 
 ![ezgif-5-0152ff2acb](https://github.com/MatheusJulioSantana/MatheusJulioSantana/assets/129356541/fada14c6-0fb4-4f64-9c93-5e7870f6e201)<br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusJulioSantana&show_icons=true&theme=tokyonight)<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusJulioSantana&hide_progress=true&layout=compact&theme=tokyonight" alt="Top Langs" height="200">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusJulioSantana&show_icons=true&theme=tokyonight)<br><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusJulioSantana&hide_progress=true&layout=compact&theme=tokyonight" alt="Top Langs" height="200">
