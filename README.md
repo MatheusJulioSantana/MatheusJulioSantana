@@ -9,4 +9,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusJulioSantana&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusJulioSantana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" height="195" />
-
