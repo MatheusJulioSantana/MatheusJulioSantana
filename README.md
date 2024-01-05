@@ -4,10 +4,10 @@
 - 💻 I’m interested in back-end development, data science and artificial intelligence.
 - ⚡Some of my greatest passions include : 🎶Music, 🤝Volunteering, 🌱 Eco-sustainability and 🌍 Cultural projects.
 - 📫 Contact me [here](https://www.linkedin.com/in/matheus-julio-santana-33ba07164/). <br> <br>
-
+![Skilss](https://github.com/MatheusJulioSantana/MatheusJulioSantana/assets/129356541/99996934-6b78-4a16-a95c-f00938f543d2)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusJulioSantana&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusJulioSantana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" height="195" />
-![Skilss](https://github.com/MatheusJulioSantana/MatheusJulioSantana/assets/129356541/99996934-6b78-4a16-a95c-f00938f543d2)
+
 
 
 ![ezgif-5-0152ff2acb](https://github.com/MatheusJulioSantana/MatheusJulioSantana/assets/129356541/fada14c6-0fb4-4f64-9c93-5e7870f6e201)<br><br>
