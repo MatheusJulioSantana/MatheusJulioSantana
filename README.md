@@ -4,13 +4,11 @@
 - 💻 I’m interested in back-end development, strategy design patterns, and improving my algorithm-solving skills.
 - ⚡Some of my greatest passions include : 🎶Music, 🤝Volunteering, 🌱 Eco-sustainability and 🌍 Cultural projects.
 - 📫 Contact me [here](https://www.linkedin.com/in/matheus-julio-santana-33ba07164/). <br> <br>
-![Skilss](https://github.com/MatheusJulioSantana/MatheusJulioSantana/assets/129356541/e83b5373-1ead-4b70-8a13-a881385201a4)
 
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusJulioSantana&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusJulioSantana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" height="195" />
+
 
 
 
