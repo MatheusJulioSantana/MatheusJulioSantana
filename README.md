@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=200&size=40&pause=1000&color=7A9AD3&center=true&vCenter=true&width=1000&height=100&lines=Backend+Software+Engineer;Building+resilient+systems+with+Go;Focused+on+efficiency+and+integrity" alt="Typing SVG" /></a>
 
-Backend Software Engineer focused on building resilient and efficient systems. Currently working with the **Go (Golang)** ecosystem, developing high-criticality solutions and ensuring the integrity of complex data flows.
+I specialize in the Go (Golang) ecosystem, architecting high-criticality solutions where data integrity is the baseline. My work is centered on ensuring that complex financial flows remain consistent, traceable, and efficient.
 
 ### 🛠️ What I do
 - **System Stability:** Experience developing core financial systems where data integrity and consistency are the top priority.
